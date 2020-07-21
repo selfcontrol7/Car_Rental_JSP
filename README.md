@@ -1,6 +1,7 @@
 # Car Rental Management System
 
-A project from the Software Engineering Lab, Soongsil University, Seoul, Korea
+A project from the Software Engineering Lab teak, Soongsil University, Seoul, Korea
+
 Soo Dong Kim, Ph.D. 
 Professor, School of Software
 
